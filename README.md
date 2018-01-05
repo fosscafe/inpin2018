@@ -1,2 +1,2 @@
 # inpin2018
-fosscafe community InPin 2018 schedule
+fosscafe community 2018 schedule.
