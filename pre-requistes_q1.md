@@ -5,15 +5,15 @@
 * gcc: 7.0+
 * Go: 1.8+/1.9 
 * Docker: latest CE
-* Go souce
+* Go source
 * Virtual Box (if you can't get any of the above)
-* Recommended distro Archlinux
+* Recommended distro Archlinux, Manjaro Linux, Antergos, Gentoo Linux
 
 ## References:
 * [Rust Nightly](https://doc.rust-lang.org/1.13.0/book/nightly-rust.html)
 * [Go lang](https://golang.org/dl/)
-* [Docker CE]( https://www.docker.com/community-edition#/download )
-* [Go source code]( https://github.com/golang/go)
+* [Docker 17.x CE]( https://www.docker.com/community-edition#/download )
+* [Go Source code]( https://github.com/golang/go)
 * [Archlinux installtion guide](https://wiki.archlinux.org/index.php/installation_guide)
 
 You can use the above mentioned links to refer to the latest versions, and the installation instructions.
