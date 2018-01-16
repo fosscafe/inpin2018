@@ -1,4 +1,4 @@
-#The Pre-requistes you would need for th Quater 1 plan.
+# Pre-requistes you would need for th Quater 1 plan.
 
 * git:latest version
 * rust: nightly version
@@ -9,7 +9,7 @@
 * Virtual Box (if you can't get any of the above)
 * Recommended distro Archlinux
 
-##Reference:
+## Reference:
 * [Rust Nightly](https://doc.rust-lang.org/1.13.0/book/nightly-rust.html)
 * [Go lang](https://golang.org/dl/)
 * [Docker CE]( https://www.docker.com/community-edition#/download )
