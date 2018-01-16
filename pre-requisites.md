@@ -1,4 +1,4 @@
-# Pre-requistes you would need for th Quater 1 plan.
+# Pre-requistes for Quarter 1
 
 * git:latest version
 * rust: nightly version
