@@ -27,4 +27,4 @@ https://groups.google.com/forum/#!topic/fosscafe/OWI-SN6n5D0
 Please feel free to share logs, errors and issues on the [fosscafe mailing list](https://groups.google.com/group/fosscafe)
 
 
-PS - Thank you [Raj](https://github.com/rkgade) for taking the initiative and sharing the details with the community [fosscafe mailing list](https://groups.google.com/group/fosscafe)
+PS - Thank you [Raj](https://github.com/rkgade) for taking the initiative and sharing the details with the community on [fosscafe mailing list](https://groups.google.com/group/fosscafe)
