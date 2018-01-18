@@ -1,4 +1,4 @@
-# Pre-requistes for Quarter 1
+# Pre-requisites for Quarter 1
 
 * git:latest version
 * rust: nightly version
