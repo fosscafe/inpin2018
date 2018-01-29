@@ -50,11 +50,11 @@ virtualization
 <!-- # Actual Solution -->
 |  |Sat(1500-1800)|   |Sun(0930-1300)|
 |--|:-----------:|:----:|------------:|
-|Feb 03| [Git](https://www.meetup.com/fosscafe/events/246713570/)|Feb 04|[rust introduction](https://www.meetup.com/fosscafe/events/246713582/)|
-|Feb 10| [networking basics](https://www.meetup.com/fosscafe/events/246713628/)|Feb 11|[rust basics](https://www.meetup.com/fosscafe/events/2467136l47/)
-|Feb 17|[storage basics](https://www.meetup.com/fosscafe/events/246713672/)|Feb 18|[rust basics contd.](https://www.meetup.com/fosscafe/events/246713717/)|
-|Feb 24|[virtualization hackathon](https://www.meetup.com/fosscafe/events/246713748/)|Feb 25|[virtualizaton hackathon](https://www.meetup.com/fosscafe/events/246713772/)|
-|Mar 03|[serialization](https://www.meetup.com/fosscafe/events/246713792/)|Mar 04|[grpc : hack](https://www.meetup.com/fosscafe/events/246713917/)|
+|Feb 03| [Git](https://www.meetup.com/fosscafe/events/247201766/)|Feb 04|[rust for newbies(2 of 12)](https://www.meetup.com/fosscafe/events/247201900/)|
+|Feb 10| [networking basics](https://www.meetup.com/fosscafe/events/247202021/)|Feb 11|[rust basics](https://www.meetup.com/fosscafe/)
+|Feb 17|[storage basics](https://www.meetup.com/fosscafe/events/247202081/)|Feb 18|[rust basics contd.](https://www.meetup.com/fosscafe/)|
+|Feb 24|[virtualization hackathon](https://www.meetup.com/fosscafe/events/247202170/)|Feb 25|[virtualizaton hackathon](https://www.meetup.com/fosscafe/events/247202170/)|
+|Mar 03|[serialization](https://www.meetup.com/fosscafe/events/247202241/)|Mar 04|[grpc : hack](https://www.meetup.com/fosscafe/events/247202416/)|
 
 <!-- 
 
