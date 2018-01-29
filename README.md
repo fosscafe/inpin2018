@@ -1,25 +1,64 @@
 # fosscafe community 2018 quater 1 plan
 
+###  TOPICS :
 
+<!-- Docker Intro Again :
+
+Sashank : Git : Feb 3rd
+4th : rust : Sanchayan
+10: networking basics: Ravi and Dhananjay
+- ip, sockets, file descriptors, http, http2, tcp stack, arp, : DNS ,how to make subnets, and overlay networks. routing, tcpdump 
+- linux networking tools :nmap, ip tools, tcpdump, iptables
+
+11th : Rust : Sanchayan: 
+ownership, borrowing, references
+
+17 : storage basics: : Raj, Dhananjay, Sashank, 
+file systems, RAID 1 , 0 ,10 , NFS, Samba, mount.
+overlayFS, ext s , zfs
+
+18th : Rust : lifetimes, 
+
+March 3rd : Serialization : json, YAML, protobuf :
+Sabri, Vishwas, Vivek, 
+March 4th : grpc : work up!
+
+
+virtualization 24th and 25th Feb
+: Xen, KVM, libvirt,
+qemu
+VirtualBox CmdLine  : Hackathon first week of March
+
+InfraCreations :
+terrafrom 
+Topics :
+
+monitoring
+virtualbox
+overlayFS,
+opencontaril
+networking basics
+storage basics
+
+virtualization
+
+
+| volunteer | Topic |
+|--|:-----------:|:----:|------------:|
+| Raj |  | -->
+
+<!-- # Actual Solution -->
 |  |Sat(1500-1800)|   |Sun(0930-1300)|
 |--|:-----------:|:----:|------------:|
-|Jan 06| [Go lang full day workshop](https://www.meetup.com/fosscafe/events/246234403/)|Jan 07|-|
-|Jan 13| [Go lang (part 2)](https://www.meetup.com/fosscafe/events/246708833/)|Jan 14| [Go lang (part 3)](https://www.meetup.com/fosscafe/events/246708862/)|
-|Jan 20| [Docker 101 (part 1)](https://www.meetup.com/fosscafe/events/246713494/)|Jan 21|[Docker 101 (part 2)](https://www.meetup.com/fosscafe/events/246713526/)|
-|Feb 03| [Docker 'build'](https://www.meetup.com/fosscafe/events/246713570/)|Feb 04|[Docker 'run'](https://www.meetup.com/fosscafe/events/246713582/)|
-|Feb 10| [etcd workshop (part 1)](https://www.meetup.com/fosscafe/events/246713628/)|Feb 11|[etcd workshop (part 2)](https://www.meetup.com/fosscafe/events/246713647/)
-|Feb 17|[Docker 'host to container' attribute mapping (part 1)](https://www.meetup.com/fosscafe/events/246713672/)|Feb 18|[Docker 'host to container' attribute mapping (part 2)](https://www.meetup.com/fosscafe/events/246713717/)|
-|Feb 24|[Docker Mapper and Docker 'volume' (part 1)](https://www.meetup.com/fosscafe/events/246713748/)|Feb 25|[Docker Mapper and Docker 'volume' (part 2)](https://www.meetup.com/fosscafe/events/246713772/)|
-|Mar 03|[Docker storage and plugins (part 1)](https://www.meetup.com/fosscafe/events/246713792/)|Mar 04|[Docker storage and plugins (part 2)](https://www.meetup.com/fosscafe/events/246713917/)|
+|Feb 03| [Git](https://www.meetup.com/fosscafe/events/247201766/)|Feb 04|[rust for newbies(2 of 12)](https://www.meetup.com/fosscafe/events/247201900/)|
+|Feb 10| [networking basics](https://www.meetup.com/fosscafe/events/247202021/)|Feb 11|[rust basics](https://www.meetup.com/fosscafe/)
+|Feb 17|[storage basics](https://www.meetup.com/fosscafe/events/247202081/)|Feb 18|[rust basics contd.](https://www.meetup.com/fosscafe/)|
+|Feb 24|[virtualization hackathon](https://www.meetup.com/fosscafe/events/247202170/)|Feb 25|[virtualizaton hackathon](https://www.meetup.com/fosscafe/events/247202170/)|
+|Mar 03|[serialization](https://www.meetup.com/fosscafe/events/247202241/)|Mar 04|[grpc : hack](https://www.meetup.com/fosscafe/events/247202416/)|
+
+<!-- 
+
 |Mar 10|[Docker storage projects (part 1)](https://www.meetup.com/fosscafe/events/246713988/)|Mar 11|[Docker storage projects (part 2)](https://www.meetup.com/fosscafe/events/246714018/)|
 |Mar 17|[Docker container Registry (part 1)](https://www.meetup.com/fosscafe/events/246714047/)|Mar 18|[Docker container Registry (part 2)](https://www.meetup.com/fosscafe/events/246714076/)|
 |Mar 24|[Docker 'network' (part 1)](https://www.meetup.com/fosscafe/events/246714105/)|Mar 25|[Docker 'network' (part 2)](https://www.meetup.com/fosscafe/events/246714127/)|
-|Apr 07|[OCI, containerD, runC (part 1)](https://www.meetup.com/fosscafe/events/246714191/)|Apr 08|[OCI, containerD, runC (part 2)](https://www.meetup.com/fosscafe/events/246714316/)|
-
-
-
-
-# Hackathons
-| | |
-|--|---:|
-|Jan 26, 27, 28|[Monitoring Docker Containers](https://www.meetup.com/fosscafe/events/246713608/)|
+|Apr 07|[OCI, containerD, runC (part 1)](https://www.meetup.com/fosscafe/events/246714191/)|Apr 08|[OCI, containerD, runC (part 2)](https://www.meetup.com/fosscafe/events/246714316/)| -->
