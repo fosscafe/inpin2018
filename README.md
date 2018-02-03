@@ -1,4 +1,4 @@
-# fosscafe community 2018 quater 1 plan
+# fosscafe community 2018 quarter 1 plan
 
 ###  TOPICS :
 
